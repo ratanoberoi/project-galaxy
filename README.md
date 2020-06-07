@@ -20,6 +20,9 @@
 #### Create a branch
 `git checkout -b feature/header`
 
+## To Pull changes
+`git pull orgin branch-name`
+
 ## Push the code
 `git add .`
 `git commit -m "Your Message"`
