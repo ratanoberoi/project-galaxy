@@ -90,10 +90,25 @@
 /*!************************!*\
   !*** ./src/js/main.js ***!
   \************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-throw new Error("Module build failed (from ./node_modules/eslint-loader/index.js):\nSyntaxError: Cannot read config file: C:\\MAMP\\htdocs\\project-galaxy\\assets\\.eslintrc.json\nError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at loadJSONConfigFile (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config\\config-file.js:114:21)\n    at loadConfigFile (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config\\config-file.js:230:26)\n    at loadFromDisk (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config\\config-file.js:523:18)\n    at Object.load (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config\\config-file.js:587:20)\n    at Config.getLocalConfigHierarchy (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config.js:240:44)\n    at Config.getConfigHierarchy (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config.js:192:43)\n    at Config.getConfigVector (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config.js:299:21)\n    at Config.getConfig (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\config.js:342:29)\n    at processText (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\cli-engine.js:181:33)\n    at CLIEngine.executeOnText (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint\\lib\\cli-engine.js:690:40)\n    at lint (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint-loader\\index.js:278:17)\n    at Object.module.exports (C:\\MAMP\\htdocs\\project-galaxy\\assets\\node_modules\\eslint-loader\\index.js:273:21)");
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _scss_main_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../scss/main.scss */ "./src/scss/main.scss");
+/* harmony import */ var _scss_main_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_scss_main_scss__WEBPACK_IMPORTED_MODULE_0__);
+
+
+/***/ }),
+
+/***/ "./src/scss/main.scss":
+/*!****************************!*\
+  !*** ./src/scss/main.scss ***!
+  \****************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ })
 
