@@ -8,6 +8,10 @@
 `cd assets`
 `npm run dev`
 
+## To stop the webpack
+
+`Ctr + C`
+
 ## Create a branch
 
 #### If you are in assets directory, come out using 
