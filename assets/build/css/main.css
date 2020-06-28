@@ -65,8 +65,11 @@ body {
   color: blue; }
 
 .footer {
-  background-color: #000;
-  color: #fff; }
+  background-color: 0; }
+
+.wrapper {
+  max-width: 70.3125rem;
+  margin: 0 auto; }
 
 
 /*# sourceMappingURL=main.css.map*/
