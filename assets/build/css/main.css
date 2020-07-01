@@ -61,11 +61,21 @@ body {
   font: 1rem/1.5rem Poppins,sans-serif; }
 
 .header {
-  background-color: #faebd7; }
+  display: flex;
+  justify-content: space-between; }
+
+.header-left {
+  display: flex; }
+
+.nav {
+  display: flex; }
 
 .footer {
-  background-color: #000;
-  color: #fff; }
+  background-color: 0; }
+
+.wrapper {
+  max-width: 70.3125rem;
+  margin: 0 auto; }
 
 
 /*# sourceMappingURL=main.css.map*/

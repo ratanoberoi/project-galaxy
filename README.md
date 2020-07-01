@@ -27,3 +27,4 @@
 `git add .`
 `git commit -m "Your Message"`
 `git push origin feature/branch-name`
+'http://localhost/project-galaxy/'
