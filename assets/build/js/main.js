@@ -106,9 +106,9 @@ __webpack_require__.r(__webpack_exports__);
   !*** ./src/scss/main.scss ***!
   \****************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-// extracted by mini-css-extract-plugin
+throw new Error("Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):\nModuleBuildError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\n\r\n\tdisplay: ;\r\n       ^\r\n      Style declaration must contain a value\r\n      in C:\\xampp\\htdocs\\project-galaxy\\assets\\src\\scss\\components\\_header.scss (line 4, column 9)\n    at C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\webpack\\lib\\NormalModule.js:316:20\n    at C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\loader-runner\\lib\\LoaderRunner.js:367:11\n    at C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\loader-runner\\lib\\LoaderRunner.js:233:18\n    at context.callback (C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\loader-runner\\lib\\LoaderRunner.js:111:13)\n    at Object.callback (C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\sass-loader\\dist\\index.js:89:7)\n    at Object.done [as callback] (C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\neo-async\\async.js:8067:18)\n    at options.error (C:\\xampp\\htdocs\\project-galaxy\\assets\\node_modules\\node-sass\\lib\\index.js:294:32)");
 
 /***/ })
 
