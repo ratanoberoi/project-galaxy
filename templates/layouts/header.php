@@ -1,3 +1,4 @@
+
 <header class="header wrapper">
 	<div class="header-left">
 		<div class="logo">
@@ -11,14 +12,20 @@
 				<a href="#">Product</a>
 			</li>
 			<li>
-				<a href="#">Product</a>
+				<a href="#">Customers</a>
 			</li>
 			<li>
-				<a href="#">Product</a>
+				<a href="#">Pricing</a>
 			</li>
 			<li>
-				<a href="#">Product</a>
+				<a href="#">Resource</a>
 			</li>
 		</ul>
+		<button>
+			Sign In
+		</button>
+		<button>
+			Sign Up
+		</button>
 	</nav>
 </header>
