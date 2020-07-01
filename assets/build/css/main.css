@@ -67,8 +67,9 @@ body {
 .header-left {
   display: flex; }
 
-.nav {
-  display: flex; }
+.header-right ul {
+  display: flex;
+  justify-content: space-between; }
 
 .footer {
   background-color: 0; }

@@ -1,12 +1,19 @@
 
 
 .header {
-	display: ;
+	display: flex;
 	justify-content: space-between;	
 }
+
 .header-left {
 	display: flex;
 }
-.nav {
-	display: flex;
-}
+
+.header-right {
+	ul {
+		display: flex;
+		justify-content: space-between;
+		
+	}
+} 
+
