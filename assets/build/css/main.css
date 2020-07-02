@@ -65,11 +65,21 @@ body {
   justify-content: space-between; }
 
 .header-left {
-  display: flex; }
-
-.header-right ul {
   display: flex;
   justify-content: space-between; }
+
+.header-right {
+  margin: auto; }
+  .header-right ul {
+    display: flex;
+    justify-content: space-between; }
+
+.button1 {
+  background-color: #BCD0E5;
+  border-radius: initial; }
+
+.button2 {
+  background-color: #FF9900; }
 
 .footer {
   background-color: 0; }

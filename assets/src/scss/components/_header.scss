@@ -2,18 +2,26 @@
 
 .header {
 	display: flex;
-	justify-content: space-between;	
+	justify-content: space-between;
 }
 
 .header-left {
 	display: flex;
+	justify-content: space-between;
 }
 
 .header-right {
+	margin: auto;
 	ul {
 		display: flex;
 		justify-content: space-between;
-		
 	}
-} 
+}
 
+.button1 {
+	background-color: #BCD0E5;
+	border-radius: initial;;
+}
+.button2 {
+	background-color: #FF9900;
+}
