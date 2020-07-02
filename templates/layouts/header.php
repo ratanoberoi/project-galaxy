@@ -21,11 +21,11 @@
 				<a href="#">Resource</a>
 			</li>
 		</ul>
-		<button>
+	</nav>
+	<button class="button1">
 			Sign In
 		</button>
-		<button>
+		<button class="button2">
 			Sign Up
 		</button>
-	</nav>
 </header>
