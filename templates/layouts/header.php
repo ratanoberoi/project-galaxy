@@ -7,8 +7,8 @@
 		<h1>Productly</h1>
 	</div>
 	<nav class="header-right">
-		<ul>
-			<li>
+		<ul >
+			<li >
 				<a href="#">Product</a>
 			</li>
 			<li>
@@ -23,9 +23,9 @@
 		</ul>
 	</nav>
 	<button class="button1">
-			Sign In
-		</button>
-		<button class="button2">
-			Sign Up
+		<a href="#" target="_blank">Sign In</a>
+	</button>
+	<button class="button2">
+		<a href="#" target="_blank">Sign Up</a>
 		</button>
 </header>
